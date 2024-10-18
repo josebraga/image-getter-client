@@ -1,1 +1,1 @@
-# fbc-image-getter-example
+# Image Getter Client
